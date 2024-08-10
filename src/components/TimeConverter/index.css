@@ -1,0 +1,21 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .light-mode {
+    background-color: #f0f0f0;
+    color: #000;
+  }
+  
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 8px 12px;
+    cursor: pointer;
+  }
+  
